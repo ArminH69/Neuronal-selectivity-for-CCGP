@@ -117,12 +117,6 @@ The `hippocampal_analysis` directory contains the MATLAB code used to test wheth
 
 The analysis is organized around two main scripts:
 
-
-The `hippocampal_analysis` directory contains the MATLAB code used to analyze
-the human hippocampal single-neuron data.
-
-The analysis is organized around two main scripts:
-
 ### 1. `Category_neurons_main_code.m`
 
 This is the main analysis for examining the effect of progressively adding
