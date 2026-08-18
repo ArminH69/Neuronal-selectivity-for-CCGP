@@ -202,6 +202,11 @@ analysis scripts:
 - `getPredictorP.m` – evaluates the significance of predictors in the
   single-neuron encoding models.
 
+## Requirements
+
+- MATLAB (tested with R2024b)
+
+
 \## Data
 
 
