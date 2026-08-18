@@ -205,7 +205,27 @@ analysis scripts:
 ## Requirements
 
 - MATLAB (tested with R2024b)
+  
+## How to run
 
+### Toy model
+
+Run:
+
+toy_model/toy_model_analysis.py
+
+
+### Hippocampal analysis
+
+Run the main scripts:
+
+hippocampal_analysis/Category_neurons_main_code.m
+
+and
+
+hippocampal_analysis/Identity_neurons_main_code.m
+
+All required MATLAB functions are included in the same directory.
 
 \## Data
 
