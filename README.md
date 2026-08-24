@@ -142,14 +142,16 @@ The script performs the complete category-neuron analysis pipeline, including:
     independent pseudopopulation realizations.
 13. Summary of geometric measures across neuronal-composition scenarios.
 14. Correlation of category-axis alignment and category-axis strength with CCGP.
-15. Partial-correlation analysis controlling for neuronal composition and the
+15. SENSITIVITY ANALYSIS: SCENARIO-LEVEL CORRELATIONS
+16. Partial-correlation analysis controlling for neuronal composition and the
     alternative geometric measure, including FDR correction.
-16. Visualization of the relationships between geometric measures and CCGP.
-17. Regression analyses relating neuronal composition, population geometry,
+17. Visualization of the relationships between geometric measures and CCGP.
+18. Regression analyses relating neuronal composition, population geometry,
     and CCGP.
-18. Mediation analysis testing whether category-axis alignment mediates the
+19. Mediation analysis testing whether category-axis alignment mediates the
     relationship between category-like neuron number and CCGP.
-19. Bootstrap estimation of the mediation effect using 5,000 resamples.
+20. Bootstrap estimation of the mediation effect using 5,000 resamples.
+21. EAVE-ONE-CATEGORY-NEURON-OUT SENSITIVITY ANALYSIS
 
 The population manipulation increases the number of category-like neurons
 (0, 5, 10, and 13) while keeping the identity-like population fixed at
